@@ -1,0 +1,28 @@
+body {
+	margin: 0em;
+	background-color: #292f34;
+	color: #292f34;
+}
+
+div {
+	background-color: white;
+	box-shadow: 0em 0em 0.1em 0.1em white;
+	max-width: 65%;
+	margin: 18% auto 2em auto;
+	padding: 1em;
+}
+
+#quote_container {
+	text-align: center;
+	font-weight: bold;
+	font-size: 3em;
+	font-family: "Patrick_hand";
+}
+
+#author_container {
+	text-align: center;
+	font-style: italic;
+	font-size: 15px;
+	font-family: sans-serif;
+	text-decoration: underline;
+}
