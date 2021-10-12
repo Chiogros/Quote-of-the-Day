@@ -14,6 +14,8 @@ var timeBeforeFetchingQuoteAgainInHours = 12;
 })();
 
 function setValuesInHTML(quote, author) {
+	document.getElementById("quote_container").style.opacity = "1";
+	 
 	document.getElementById("quote_container").innerHTML = quote;
 	document.getElementById("author_container").innerHTML = author;
 }

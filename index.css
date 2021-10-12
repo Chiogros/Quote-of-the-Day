@@ -16,6 +16,7 @@ div {
 	font-weight: bold;
 	font-size: 3em;
 	font-family: "Patrick_hand";
+	opacity: 0.3;
 }
 
 #author_container {
